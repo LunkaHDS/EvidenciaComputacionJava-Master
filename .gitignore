@@ -1,0 +1,3 @@
+*.csv
+# Project exclude paths
+/out/
